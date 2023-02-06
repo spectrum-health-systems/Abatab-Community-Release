@@ -1,2 +1,3 @@
 # Abatab-Community-Release
-The Community Release of Abatab
+
+Release date: April 1st, 2023.
